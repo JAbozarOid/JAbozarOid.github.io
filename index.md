@@ -139,11 +139,11 @@ Overall, I feel that my knowledge as a programmer and my passion for new technol
 
 + https://www.linkedin.com/in/abozarraghibdoust/
 
-### Resume Assessment
+### Assessment
 
 ---
 
-[Resume](/assessment/AR_CV_CheckList_AR_3983.pdf)
+[Assessment](/assessment/AR_CV_CheckList_AR_3983.pdf)
 
 ### Persian Resume
 
