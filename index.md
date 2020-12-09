@@ -149,14 +149,14 @@ Overall, I feel that my knowledge as a programmer and my passion for new technol
 
 ---
 
-[رزومه فارسی](/index-fa)
+[persian resume](/index-fa)
 
 
 ### SOP  
 
 ---
 
-[انگیزه نامه فارسی](/sop)
+[persian sop](/sop)
 
 ### Certificates
 
